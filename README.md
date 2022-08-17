@@ -1,19 +1,10 @@
 ### Hi there 👋
 
-<!--
-**ritikabhardwaj1111/ritikabhardwaj1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🔭 Pursuing MCA from Thapar Institute of Engineering & Technology. <br>
 🌱 I'm always trying to grow and learn something new. <br>
-⚡ My passion is to use technology to create new and innovative ways to help others. <br>
+⚡ My passion is to use technology to create new and innovative ways to help others. <br><BR>
+
+<b> Find me elsewhere 🌎 <b>
+
+
+
